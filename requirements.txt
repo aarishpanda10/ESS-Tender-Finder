@@ -1,0 +1,6 @@
+streamlit>=1.36,<2
+requests>=2.32
+beautifulsoup4>=4.12
+Pillow>=10.3
+pytesseract>=0.3.13
+PyMuPDF>=1.24
