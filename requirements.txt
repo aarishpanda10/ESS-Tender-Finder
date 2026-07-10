@@ -1,0 +1,4 @@
+streamlit>=1.36,<2
+requests>=2.32
+Pillow>=10.3
+pytesseract>=0.3.13
